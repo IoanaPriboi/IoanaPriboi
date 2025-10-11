@@ -26,6 +26,11 @@ I'm interested in:
 - Strengthening my programming and debugging skills  
 - Learning more about how theory meets practice in real-world projects  
 
+<!--
+---
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ioanapriboi)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ---
 
 ### 🤝 Let's Connect!
