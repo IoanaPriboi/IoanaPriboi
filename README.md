@@ -8,15 +8,15 @@
 ### 🧠 About Me
 - 💻 I work mainly with **C/C++**, **Java**, and **Python**  
 - ✨ I'm **creative**, **hardworking**, and **well-organized**  
-- 🚀 Always curious to learn new concepts and experiment with different technologies  
-- 🌱 Currently learning topics like **Computer Graphics** and **Parallel & Distributed Algorithms**
+- 🚀 Always eager to learn new concepts and experiment with different technologies  
+- 🌱 I'm curious about how AI can be used in everyday applications and where it still gets things wrong
 
 ---
 
 ### ⚙️ Tech Interests
 I'm interested in:
-- Software development and algorithm design  
-- Computer graphics and visualization  
+- Software development and algorithms  
+- Machine learning and working with data  
 - Exploring efficient and scalable computing solutions  
 
 ---
