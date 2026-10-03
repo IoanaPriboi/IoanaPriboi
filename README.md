@@ -35,4 +35,3 @@ I'm interested in:
 
 ### 🤝 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/ioana-priboi/)
-🌐 [GitHub](https://github.com/IoanaPriboi)
